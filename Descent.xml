@@ -104,6 +104,7 @@
 
 <!-- Forge -->
 
+<!--
         <mod name="=== Forge ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root" colour="GC"
@@ -111,6 +112,7 @@
              authors="RR Dev Team"
              description="Minecraft Forge."
              />
+-->
 
         <mod
              name="Forge" version="12.18.1.2023"
@@ -138,6 +140,7 @@
 <!-- Core Mods -->
 
 
+<!--
         <mod name="=== Core ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root" colour="rred"
@@ -145,6 +148,7 @@
              authors="RR Dev Team"
              description="Core Mod List."
              />
+-->
 
         <mod name="AbyssalCraft Heads" version="1.9.4-1.3.0" url="packs/ResonantRiseDev/files/Descent-1.10.2/AbyssalCraft Heads-1.9.4-1.3.0.jar" file="AbyssalCraft Heads-1.9.4-1.3.0.jar" md5="f1b966a130cfd251a59e98562d3b9b6e" download="server" type="mods" website="http://minecraft.curseforge.com/mc-mods/229609" donation="https://www.paypal.com/cgi-bin/webscr?return=https://minecraft.curseforge.com/projects/abyssalcraft-heads?gameCategorySlug=mc-mods&amp;projectID=229609&amp;cn=Add+special+instructions+to+the+addon+author()&amp;business=felix%40lundquist.ws&amp;bn=PP-DonationsBF:btn_donat" authors="shinoow" description="A simple mod that adds head icons (items) for AbyssalCraft entities (except the Depths Ghoul)." />
 
@@ -294,6 +298,7 @@
 
 <!-- Optional Mods -->
 
+<!--
         <mod name="=== Optional Mods ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" server="no" colour="Im"
@@ -301,6 +306,7 @@
              authors="RR Dev Team"
              description="Optional Mod List."
              />
+-->
 
 
 
@@ -315,6 +321,7 @@
 
 <!-- Client / Server Mods -->
 
+<!--
         <mod name="=== Client Mods ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" server="no" colour="lite"
@@ -322,7 +329,9 @@
              authors="RR Dev Team"
              description="Client Only Mod List."
              />
+-->
 
+<!--
         <mod name="=== Server Mods ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" client="no" colour="lite"
@@ -330,6 +339,7 @@
              authors="RR Dev Team"
              description="Server Only Mod List."
              />
+-->
 
 
 
@@ -344,6 +354,7 @@
 
 <!-- Dev Only -->
 
+<!--
         <mod name="=== Dev Only ===" version="1.0"
              url="packs/ResonantRise/files/config-switches/zone00.zip" file="zone00.zip" md5="433f4c3cb1da539bcf65ba13de2f0ce4" download="server"
              type="extract" extractto="root" optional="yes" recommended="no" colour="Hyd"
@@ -351,6 +362,7 @@
              authors="RR Dev Team"
              description="Developer Tool List."
              />
+-->
 
 
         <!-- Developer Tool List:
